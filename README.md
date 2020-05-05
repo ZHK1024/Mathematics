@@ -17,7 +17,7 @@ Mathematics is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Mathematics'
+pod 'Mathematics', :git => 'https://github.com/ZHK1024/Mathematics.git'
 ```
 
 ## Author
