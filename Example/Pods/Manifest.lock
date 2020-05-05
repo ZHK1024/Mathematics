@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Mathematics (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Mathematics (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  Mathematics:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Mathematics: ddbe65ed9280a357c2f6be1ffe5b463ba6a990db
+
+PODFILE CHECKSUM: 01e0797aebc079c63a2bb354b774e327cb1253a9
+
+COCOAPODS: 1.9.0.beta.2

@@ -1,0 +1,6 @@
+framework module Mathematics {
+  umbrella header "Mathematics-umbrella.h"
+
+  export *
+  module * { export * }
+}
